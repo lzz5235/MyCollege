@@ -1,3 +1,3 @@
-This is my college graduation project about distrubute storage
+This is my college graduation project about distribute storage
 
 Designed by Jason Lee

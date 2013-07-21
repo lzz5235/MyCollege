@@ -1,0 +1,227 @@
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/user4/
+/home/lzz/User/user4/1.mp3
+/home/lzz/User/aaa/
+/home/lzz/User/aaa/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+/home/lzz/User/User3/
+/home/lzz/User/User3/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/user4/
+/home/lzz/User/user4/1.mp3
+/home/lzz/User/aaa/
+/home/lzz/User/aaa/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+/home/lzz/User/User3/
+/home/lzz/User/User3/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/user4/
+/home/lzz/User/user4/1.mp3
+/home/lzz/User/aaa/
+/home/lzz/User/aaa/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/User3/
+/home/lzz/User/User3/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
+tar: 从成员名中删除开头的“/”
+/home/lzz/User/
+/home/lzz/User/lz/
+/home/lzz/User/lz/1.mp3
+/home/lzz/User/lzz/
+/home/lzz/User/lzz/1.mp3
